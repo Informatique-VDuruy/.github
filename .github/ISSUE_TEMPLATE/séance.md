@@ -1,12 +1,16 @@
 ---
 name: Séance
 about: Créer une nouvelle séance
-title: ''
-labels: Nouvelle séance, Séance 1
+title: 'Séance X'
+labels: Nouvelle séance
 assignees: TheAveron
 
 ---
+## [Séance X](https://github.com/Informatique-VDuruy/Seance-X)
 
+### Avancement
 - [ ] Sujet
 - [ ] Ecriture
 - [ ] Validation
+
+### Sujet
