@@ -10,7 +10,7 @@ Ferme # <!-- Issue # here -->
 ## 📑 Description
 <!-- Ajoutez une brève description de la demande de traction -->
 
-<Vous pouvez également choisir d'ajouter une liste de modifications et d'indiquer si elles ont été effectuées ou non en utilisant la syntaxe markdown de la liste des tâches à effectuer.
+<!--Vous pouvez également choisir d'ajouter une liste de modifications et d'indiquer si elles ont été effectuées ou non en utilisant la syntaxe markdown de la liste des tâches à effectuer.
 - [ ] Non terminé
 - [x] Terminé
 -->
