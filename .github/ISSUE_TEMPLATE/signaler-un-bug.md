@@ -2,8 +2,9 @@
 name: Report a bug
 about: Create a report to help us improve the bot
 title: "[BUG]"
-labels: Bug
-assigned: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## Describe the bug
