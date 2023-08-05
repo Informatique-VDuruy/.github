@@ -16,7 +16,7 @@ Ferme # <!-- Issue # here -->
 -->
 
 ## ✅ Vérifications
-<Assurez-vous que votre demande d'extraction passe les contrôles CI et vérifiez les champs suivants si nécessaire - -->
+<!-- Assurez-vous que votre demande d'extraction passe les contrôles CI et vérifiez les champs suivants si nécessaire - -->
 - [ ] Ma pull request respecte le style de code de ce projet
 - [ ] Mon code nécessite des changements dans la documentation
 - [ ] J'ai mis à jour la documentation comme nécessaire
