@@ -4,8 +4,8 @@ Merci d'avoir créé cette pull request 🤗
 Veuillez vous assurer que la pull request est limitée à un seul type (docs, fonctionnalité, etc.) et qu'elle est aussi petite que possible. Vous pouvez ouvrir plusieurs prs au lieu d'en ouvrir une énorme.
 -->
 
-<!-- Si cette demande ferme un problème, veuillez mentionner le numéro du problème ci-dessous -->
-Ferme # <!-- Issue # here -->
+<!-- Si cette demande ferme un problème, veuillez mentionner le numéro du problème ci-dessous 
+Ferme # [Issue # here]
 
 ## 📑 Description
 <!-- Ajoutez une brève description de la demande de traction -->
