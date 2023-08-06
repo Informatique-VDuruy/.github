@@ -11,4 +11,4 @@ Nous vous invitons ainsi à suivre l'organisation, où vous pourrez retrouver to
 
 Nous publierons fréquement sur les réseaux sociauw différentes informations à propos du club d'informatique, nous vous encourageons donc à nous suivre sur [Twitter](https://twitter.com/InfoVDuruy) (ou X comme vous préférez) ainsi qu'[Instagram](). 
 
-Afin de rejoindre le serveur discord où vous pourrez discuter avec les autres membres du club, échanger des fichier, des conseil et des idées, veuillez contacter @TheAveron.
+Afin de rejoindre le serveur discord où vous pourrez discuter avec les autres membres du club, échanger des fichier, des conseil et des idées, veuillez contacter [@TheAveron](https://github.com/TheAveron).
