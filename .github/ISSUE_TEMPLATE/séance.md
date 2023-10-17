@@ -3,7 +3,7 @@ name: Séance
 about: Créer une nouvelle séance
 title: 'Séance X'
 labels: Nouvelle séance
-assignees: "TheAveron, Metacraft122"
+assignees: "TheAveron, Metacraft122, l0n3ly80y"
 milestones: Création des séances
 
 ---
@@ -11,7 +11,6 @@ milestones: Création des séances
 
 ### Avancement
 - [ ] Sujet
-- [ ] Ecriture
 - [ ] Validation
 
 ### Sujet
